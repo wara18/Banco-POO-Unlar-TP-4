@@ -1,10 +1,10 @@
-# 🏦 Sistema Bancario Básico - Banco UNLaR
+# Sistema Bancario Básico - Banco UNLaR
 
 API REST desarrollada con Spring Boot que simula un sistema bancario básico con persistencia en memoria.
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 - Java 21
 - Spring Boot 3.5
@@ -13,7 +13,7 @@ API REST desarrollada con Spring Boot que simula un sistema bancario básico con
 
 ---
 
-## 📦 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 com.banco.unlar
@@ -33,7 +33,7 @@ com.banco.unlar
 
 ---
 
-## 🔗 Relaciones POO
+## Relaciones POO
 
 | Relación | Entre |
 |---|---|
@@ -45,7 +45,7 @@ com.banco.unlar
 
 ---
 
-## 🚀 Cómo ejecutar
+## Cómo ejecutar
 
 1. Clonar el repositorio
 2. Abrir con IntelliJ IDEA o VS Code
@@ -54,7 +54,7 @@ com.banco.unlar
 
 ---
 
-## 📡 Endpoints
+## Endpoints
 
 ### GET `/sucursales/{id}/clientes`
 Devuelve todos los clientes de una sucursal.
@@ -119,7 +119,7 @@ GET http://localhost:8080/cuentas/123/movimientos
 
 ---
 
-## 📋 Datos Pre-cargados
+## Datos Pre-cargados
 
 ### Sucursal 1 - Centro (Av. Mitre)
 | Cliente | DNI | Email |
@@ -136,7 +136,7 @@ GET http://localhost:8080/cuentas/123/movimientos
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Trabajo Práctico - Programación Orientada a Objetos  
 Universidad Nacional de La Rioja (UNLaR)
